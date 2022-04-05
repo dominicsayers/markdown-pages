@@ -11,3 +11,7 @@ The idea is that it should be able to be updated by anybody with rudimentary `gi
 It should enable internal links and images.
 
 It should be able to be read by anybody with the URL who can use a browser.
+
+## Links to other documents
+
+We can link to [another document](another.md).
