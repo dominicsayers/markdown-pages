@@ -22,3 +22,13 @@ It should be able to be read by anybody with the URL who can use a browser.
 ### Bitmap image
 
 ![Should it move?](images/should-it-move.jpg)
+
+### Vector image
+
+Hosted locally:
+
+![2PP counting](images/2PP_counting_flowchart.svg)
+
+Included by URL:
+
+![Flowchart example](https://upload.wikimedia.org/wikipedia/commons/0/0e/Flowchart_example.svg)
