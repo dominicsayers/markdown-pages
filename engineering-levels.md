@@ -53,10 +53,10 @@ Design is a fundamental part of engineering. You'll never be told exactly how to
 3. Assessing multiple approaches
 4. API design (internal & external)
 5. Understanding key design concepts
-   1. State & idempotency
-   2. Concurrency
-   3. Queues
-   4. Loose coupling vs tight coupling
+    * State & idempotency
+    * Concurrency
+    * Queues
+    * Loose coupling vs tight coupling
 6. Design patterns
 7. Design validation
 8. Design documentation
