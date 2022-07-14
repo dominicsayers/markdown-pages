@@ -1,5 +1,6 @@
-# Home page
-
+---
+title: Home page
+---
 ## Introduction
 
 This is an attempt to create a minimal git-based documentation repository.
